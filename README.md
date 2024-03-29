@@ -13,7 +13,7 @@ npm run dev
 Connect your database using the URL specified in the .env file.
 6.)Testing with Postman:
 Use Postman to test the API endpoints. You can find the API documentation at:
-https://documenter.getpostman.com/view/29958432/2s9YsJBCgu
+https://documenter.getpostman.com/view/29958432/2sA2xh2YPP
 
 
 
